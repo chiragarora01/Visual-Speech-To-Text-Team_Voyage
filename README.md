@@ -18,6 +18,7 @@ Visual speech recognition,is model created in  Hackathon also known as lip-readi
 <td>1. Output</td>
 </table>
 ## What it does
+
 This is a system which predicts what a person is saying on the basis of lip movement of the person,through which one can get an idea what a person is saying and also convert sign language into text.
 
 
