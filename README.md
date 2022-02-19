@@ -50,7 +50,7 @@ Dowload file from this link and place in training folder - [GoogleDrive](https:/
 1. Clone the repository into a directory
 
 ```Shell
-git clone --recursive https://github.com/chiragarora01/visual-speech-to-text.git
+https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage.git
 ```
 
 2. Install all required packages.
