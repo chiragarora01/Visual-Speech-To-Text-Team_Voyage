@@ -6,14 +6,13 @@
 - Kulpreet Singh
 - Naman Sisodia
 
-OUTPUT_VIDEO = https://drive.google.com/file/d/17X0HXdIuk5i82WtBCKlbbOmejtPgOn5J/view
 
 Visual speech recognition,is model created in  Hackathon also known as lip-reading, relies on lip movements to recognise speech without relying on the audio stream. This is particularly useful in noisy environments where the audio signal is corrupted; Automatic lip reading aims to recognise the speech content by watching videos. It has lots of potential applications in both noisy and silent environments and it will help deaf and dumb people to communicate as this system works both ways it has also module which can convert sign language in text with accuracy of 76.5 in visual model.
 
 <table style="display: inline-table;">  
 <tr>
-<td><img src="https://github.com/chiragarora01/INNO-2217-Voyage/blob/main/screenshot/media1.gif"></td>
-<td><img src="https://github.com/chiragarora01/INNO-2217-Voyage/blob/main/screenshot/media3.gif" width="432"></td>
+<!-- <td><img src="https://github.com/chiragarora01/INNO-2217-Voyage/blob/main/screenshot/media1.gif"></td>
+<td><img src="https://github.com/chiragarora01/INNO-2217-Voyage/blob/main/screenshot/media3.gif" width="432"></td> -->
 <tr>
 <td>0. Input Image(mp4 or Live Camera)</td> 
 <td>1. Output</td>
