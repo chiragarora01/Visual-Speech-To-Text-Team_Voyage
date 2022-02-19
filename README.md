@@ -1,4 +1,4 @@
-# INNO-2217-Voyage | Visual Speech to text
+# Voyage | Visual Speech to text
 
 
 
@@ -11,8 +11,8 @@ Visual speech recognition,is model created in  Hackathon also known as lip-readi
 
 <table style="display: inline-table;">  
 <tr>
-<!-- <td><img src="https://github.com/chiragarora01/INNO-2217-Voyage/blob/main/screenshot/media1.gif"></td>
-<td><img src="https://github.com/chiragarora01/INNO-2217-Voyage/blob/main/screenshot/media3.gif" width="432"></td> -->
+<td><img src="https://github.com/chiragarora01/INNO-2217-Voyage/blob/main/screenshot/media1.gif"></td>
+<td><img src="https://github.com/chiragarora01/INNO-2217-Voyage/blob/main/screenshot/media3.gif" width="432"></td>
 <tr>
 <td>0. Input Image(mp4 or Live Camera)</td> 
 <td>1. Output</td>
