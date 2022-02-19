@@ -11,8 +11,8 @@ Visual speech recognition,is model created in  Hackathon also known as lip-readi
 
 <table style="display: inline-table;">  
 <tr>
-<td><img src="https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage/blob/main/screenshot/media1.gif"></td>
-<td><img src="https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage/blob/main/screenshot/media3.gif" width="432"></td>
+<td><img src="https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage/blob/master/screenshot/media1.gif"></td>
+<td><img src="https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage/blob/master/screenshot/media3.gif" width="432"></td>
 <tr>
 <td>0. Input Image(mp4 or Live Camera)</td> 
 <td>1. Output</td>
@@ -30,7 +30,7 @@ This system is build in 2 parts
     
 We took all the video and preprocess in 4 steps given below all the videos are from Dataset - [LRW](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html) which has more than 50,000 video to splitted in train,test and validation which sum up to 500 words of various spekers and after compliting these 4 steps each video it converted into npz file which of numpy arrays to make computation faster:-
 <table style="display: inline-table;">  
-<tr><td><img src="https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage/blob/main/screenshot/original.gif", width="144"></td><td><img src="https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage/blob/main/screenshot/detected.gif" width="144"></td><td><img src="https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage/blob/main/screenshot/transformed.gif" width="144"></td><td><img src="https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage/blob/main/screenshot/cropped.gif" width="144"></td></tr>
+<tr><td><img src="https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage/blob/master/screenshot/original.gif", width="144"></td><td><img src="https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage/blob/master/screenshot/detected.gif" width="144"></td><td><img src="https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage/blob/master/screenshot/transformed.gif" width="144"></td><td><img src="https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage/blob/master/screenshot/cropped.gif" width="144"></td></tr>
 <tr><td>0. Original</td> <td>1. Detection</td> <td>2. Transformation</td> <td>3. Mouth ROIs</td> </tr>
 </table>
 
