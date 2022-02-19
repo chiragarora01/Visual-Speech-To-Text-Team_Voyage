@@ -44,7 +44,7 @@ To train this model we use  articture model where all videos are passed from 3D-
 
 ## How to get model
 
-Dowload file from this link and place in training folder - [GoogleDrive](https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage.git)
+Dowload file from this link and place in training folder - [GoogleDrive](https://drive.google.com/file/d/1XTL5ZuipKvKgYQfzYqRcaWAjXsIdHE_Z/view?usp=sharing)
 
 
 ## How to install environment
