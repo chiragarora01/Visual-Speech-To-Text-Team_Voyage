@@ -8,8 +8,9 @@
 - Kirti Chauhan
 - Sanya Singh
 
-# Demo Video
-[Click Here](https://drive.google.com/file/d/1XTL5ZuipKvKgYQfzYqRcaWAjXsIdHE_Z/view?usp=sharing)
+#### Demo Video - [Click Here](https://drive.google.com/file/d/1XTL5ZuipKvKgYQfzYqRcaWAjXsIdHE_Z/view?usp=sharing)
+
+# Introduction
 
 Visual speech recognition,is model created in  Hackathon also known as lip-reading, relies on lip movements to recognise speech without relying on the audio stream. This is particularly useful in noisy environments where the audio signal is corrupted; Automatic lip reading aims to recognise the speech content by watching videos. It has lots of potential applications in both noisy and silent environments and it will help deaf and dumb people to communicate as this system works both ways it has also module which can convert sign language in text with accuracy of 96.5% in visual model.
 
