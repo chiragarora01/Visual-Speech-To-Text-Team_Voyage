@@ -3,7 +3,7 @@
 
 
 - Chirag
-- Dhankia Grover
+- Dhanika Grover
 - Ishit Singh
 - Kirti Chauhan
 - Sanya Singh
