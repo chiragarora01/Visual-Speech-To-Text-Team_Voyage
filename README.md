@@ -2,11 +2,6 @@
 
 
 
-- Chirag
-- Dhanika Grover
-- Ishit Singh
-- Kirti Chauhan
-- Sanya Singh
 
 #### Demo Video - [Click Here](https://www.youtube.com/watch?v=UnBANdAMgWA)
 
